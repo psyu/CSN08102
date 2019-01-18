@@ -1,0 +1,11 @@
+Switch 2:
+  - 24 FastEthernet interfaces
+  - 2 Gigabit interfaces
+  - 5 to 15 range for vty lines
+  - no startup configuration is present due to reset
+  - VLAN 1 has no IP address
+  - VLAN 1 is up
+  - VLAN 1 internet protocol processing is disabled
+  - VLAN 1 line protocol changed to up
+  - Cisco IOS is 12.2(55)
+  - f0/6 is up
